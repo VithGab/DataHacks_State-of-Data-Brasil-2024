@@ -6,7 +6,7 @@
 
 Dashboard desenvolvido no Google Looker Studio:
 
-**Link:** [INSERIR LINK DO DASHBOARD]
+**Link:** [https://datastudio.google.com/reporting/f982cc9b-d86f-4f22-9a40-59aaf588a77e]
 
 ---
 
